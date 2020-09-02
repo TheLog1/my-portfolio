@@ -121,6 +121,7 @@ p {
   .intro .intro-img {
     width: 75%;
     float: right;
+    transform: scaleX(-1);
   }
   .intro .intro-text {
     left: 0;
