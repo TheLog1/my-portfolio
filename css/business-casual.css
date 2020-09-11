@@ -226,6 +226,11 @@ p {
   font-size: 1.2rem;
 }
 
+.skill-icons {
+  font-size: 70px;
+  padding: 10px;
+}
+
 .footer {
   background-color: rgba(47, 23, 15, 0.9);
 }
